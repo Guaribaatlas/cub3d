@@ -1,0 +1,22 @@
+R 1920 1600
+NO ./pics/colorstone.xpm
+SO ./pics/colorstone.xpm
+WE ./pics/redbrick.xpm
+EA ./pics/bluestone.xpm
+S ./pics/barrel.xpm
+F 220,100,0
+C 225,30,0
+
+ 1111111
+ 1100001
+ 1100011
+ 1100001
+ 1100011
+ 1100001
+ 110N011
+ 1100001
+ 1100011
+ 1100001
+ 1100011
+ 1111111
+
